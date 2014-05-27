@@ -1,7 +1,7 @@
 /*
 ** winhttp»ù´¡Àà
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_NET_WINHTTPFOUNDATION_H_
 #define ULT_NET_WINHTTPFOUNDATION_H_

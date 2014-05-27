@@ -1,7 +1,7 @@
 /*
 ** winhttp单文件上传类
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 
 #ifndef ULT_NET_ASYNCWINHTTPUPLOADER_H_

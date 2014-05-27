@@ -2,7 +2,7 @@
 ** 同步GET方式下载
 ** winhttp
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_WINHTTPDOWNLOAD_H_
 #define ULT_WINHTTPDOWNLOAD_H_

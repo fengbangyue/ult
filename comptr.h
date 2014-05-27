@@ -1,7 +1,7 @@
 /* 
 ** COMÖÇÄÜÖ¸Õë
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 
 #ifndef ULT_COMPTR_H_

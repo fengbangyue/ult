@@ -1,7 +1,7 @@
 /*
 ** 简单自增长自释放缓冲区管理
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_SIMPLEBUFFER_H_
 #define ULT_SIMPLEBUFFER_H_

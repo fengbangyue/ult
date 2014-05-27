@@ -1,7 +1,7 @@
 /*
 ** 文件内存映射封装
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_FILE_FILEMAP_H_
 #define ULT_FILE_FILEMAP_H_

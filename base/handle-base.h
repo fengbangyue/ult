@@ -2,7 +2,7 @@
 ** 句柄管理
 ** 使用范型模板编程
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_BASE_HANDLEBASE_H_
 #define ULT_BASE_HANDLEBASE_H_

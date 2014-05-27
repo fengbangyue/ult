@@ -4,7 +4,7 @@
 ** 工程中需要计算MD5的地方必须包含以下文件
 ** ./encrypt/md5/md5.cpp
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_MD5_H_
 #define ULT_MD5_H_

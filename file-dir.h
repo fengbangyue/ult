@@ -1,7 +1,7 @@
 /*
 ** 提供文件及磁盘操作
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 */
 #ifndef ULT_FILE_FILEDIR_H_
 #define ULT_FILE_FILEDIR_H_

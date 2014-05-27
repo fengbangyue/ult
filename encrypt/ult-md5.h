@@ -1,7 +1,7 @@
 /*
 ** md5 ¼ÆËã·â×°Àà
 ** author
-**   taoabc@gmail.com
+**   fengbangyue@gmail.com
 ** based md5.h md5.c
 ** modify md5.c to md5.cpp
 **   add include stdafx.h, change #include <string.h> to <string>
